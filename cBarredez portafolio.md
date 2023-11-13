@@ -22,5 +22,7 @@ video: https://www.youtube.com/watch?v=C7mRzIKXyRk
 ROLA Autonomous Systems
 
 <img src="LIDAR.jpg">
-<img src="DETECT1.jpg">
+<img src="DETECT.jpg">
 <img src="DETECT2.jpg">
+
+ 
