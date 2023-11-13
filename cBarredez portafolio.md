@@ -3,7 +3,7 @@ A resume of my jobs during my university and my own projects.
 
 Name: Carlos Andres Barredez Rios
 
-Nationality: Mexican/Argentinian (by birth)
+Nationality: Mexican/Argentinian (born place)
 
 Date of Birth: August 13, 1999
 
