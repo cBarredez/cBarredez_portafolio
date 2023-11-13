@@ -14,8 +14,11 @@ Languages: Spanish (native), English (intermediate-advanced), German (intermedia
 Some completed projects, both academic and independent:
 
 Challenge: Autonomous Vehicle Navigation
+
 Document link: https://1drv.ms/b/s!ApGh7mKrYeL4ghMZE2Qb_y6ajybr?e=3xSaXW
+
 video: https://www.youtube.com/watch?v=C7mRzIKXyRk
+
 ROLA Autonomous Systems
 <img src="LIDAR.jpg">
 <img src="DETECT1.jpg">
