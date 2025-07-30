@@ -49,11 +49,6 @@ A navigation challenge involving path planning and obstacle avoidance using sens
 
 ---
 
-## 🌐 Web Portfolio
-Coming soon: A personal responsive webpage to showcase all projects and academic contributions.
-
----
-
 ## 🧠 Technical Skills
 
 - **Languages:** Python, C#, JavaScript  
