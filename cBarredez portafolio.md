@@ -1,4 +1,4 @@
-# cBarredez portafolio
+# Carlos Andres Barredez Rios portafolio
 A resume of my jobs during my university and my own projects.
 
 Name: Carlos Andres Barredez Rios
