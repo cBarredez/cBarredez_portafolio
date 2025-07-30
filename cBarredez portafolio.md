@@ -30,7 +30,6 @@ A curated summary of my academic and independent projects developed throughout m
   - Red zone rendering when foot faults are detected  
 - **Repository:** [Tennis Court Detector](https://github.com/cBarredez/-tennis-court-detector-and-player)  
 - **Use Case:** Sports analysis automation for tennis matches  
-- **Status:** Actively maintained and upgraded with full-body pose tracking
 
 ---
 
